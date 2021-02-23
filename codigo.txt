@@ -14,6 +14,17 @@ output:
 library(flexdashboard)
 ```
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-190463388-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-190463388-1');
+</script>
+
+
 ### Presentación del curso
 
 <center>
@@ -66,9 +77,9 @@ Tengo experiencia en el sector público como Evaluador de políticas y programas
 
 <center><table width="100%" border="0"><tr>    
 
-<td align="center" ><b style="font-size: 100%" >Zoom</b><p style="font-size: 50%">Inscríbete para participar en las sesiones online vía Zoom</p><a href="https://cuaed-unam.zoom.us/meeting/register/tZMvd-qqrD4vGNWn3-Zq3Kb8CnmUeQNUiXwW"><img src="https://cghv94.github.io/zoom.jpg" height="150"/></a></td>
+<td align="center" ><b style="font-size: 100%" >Zoom</b><p style="font-size: 70%">Inscríbete para participar en las sesiones online vía Zoom</p><a href="https://cuaed-unam.zoom.us/meeting/register/tZMvd-qqrD4vGNWn3-Zq3Kb8CnmUeQNUiXwW"><img src="https://cghv94.github.io/zoom.jpg" height="150"/></a></td>
 
-<td align="center" ><b style="font-size: 100%" >Google Forms</b><p style="font-size: 50%">Responde el formulario para crear un perfil de cada integrante el grupo</p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf6ZepadNeg-QhgGooN2WWr4fpljuEGWwIKqinLyIDVyoL5XA/viewform"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Google_Forms_2020_Logo.svg" height="150"/></a></td>
+<td align="center" ><b style="font-size: 100%" >Google Forms</b><p style="font-size: 70%">Registra tu asistencia</p><a href="https://docs.google.com/forms/d/e/1FAIpQLSc5fLs1zAXLwOoPa5FTMEYj-QG4tDS0rE5-kyxXw3G_S8R2Dg/viewform?usp=sf_link"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Google_Forms_2020_Logo.svg" height="150"/></a></td>
 
 </tr></table></center></br>
 
@@ -76,10 +87,10 @@ Tengo experiencia en el sector público como Evaluador de políticas y programas
 
 <center><table width="100%" border="0"><tr>    
 
-<td align="center" ><b style="font-size: 100%" >Facebook</b><p style="font-size: 50%">Compartir y publicar información en el grupo de Facebook de la materia</p><span style="padding-right:20px;"><a href="https://www.facebook.com/groups/inae2003/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="150"/></a></span></td>
+<td align="center" ><b style="font-size: 100%" >Facebook</b><p style="font-size: 70%">Compartir y publicar información en el grupo de Facebook de la materia</p><a href="https://www.facebook.com/groups/inae2003/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="150"/></a></td>
 
 
-<td align="center" ><b style="font-size: 100%" >Telegram</b><p style="font-size: 50%">Para formar parte del grupo de Telegram, completa tu registro en Zoom y llena el formulario de Google</p><a href="https://t.me/joinchat/ISZ94O4od4Jv5zIL"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="150"/></a></td>
+<td align="center" ><b style="font-size: 100%" >Telegram</b><p style="font-size: 70%">Envía tu nombre completo para formar parte del grupo de Telegram</p><a href="https://t.me/joinchat/ISZ94O4od4Jv5zIL"><img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" height="150"/></a></td>
 
 </tr></table></center></br>
 
@@ -95,6 +106,8 @@ Tengo experiencia en el sector público como Evaluador de políticas y programas
 Ingresa a:
 </br></br>
 -[Zoom](https://cuaed-unam.zoom.us/meeting/register/tZMvd-qqrD4vGNWn3-Zq3Kb8CnmUeQNUiXwW)
+</br></br>
+-[Asistencia](https://docs.google.com/forms/d/e/1FAIpQLSc5fLs1zAXLwOoPa5FTMEYj-QG4tDS0rE5-kyxXw3G_S8R2Dg/viewform?usp=sf_link)
 </br></br>
 -[Telegram](https://t.me/joinchat/ISZ94O4od4Jv5zIL)
 </br>
